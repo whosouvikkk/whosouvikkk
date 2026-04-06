@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souvik Pan</h1>
+<h1 align="center">Hi 👋, I'm Souvik</h1>
 <h3 align="center">🤖 AI/ML Student | 💻 Full Stack Developer</h3>
 
 <p align="center">
@@ -58,27 +58,11 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosouvikkk&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whosouvikkk&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-- 📧 Email: your@email.com  
-- 🌐 Portfolio: https://your-portfolio.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: souvikpan2006@gmail.com  
+- 🌐 Portfolio: https://ssync.in/ 
+- 💼 LinkedIn: https://linkedin.com/  
 
 ---
 
