@@ -17,7 +17,6 @@
 - 🚀 Building full-stack & AI-based projects  
 - 🧠 Learning System Design & DSA  
 - 💡 Love solving real-world problems  
-- ⚡ Consistency > Motivation  
 
 ---
 
